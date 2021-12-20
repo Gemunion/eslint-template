@@ -1,1 +1,1 @@
-# opensea-lazy-mint
+# ESlint template
