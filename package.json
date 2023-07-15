@@ -6,7 +6,7 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "@gemunion/eslint-config": "3.0.2",
+    "@gemunion/eslint-config": "4.0.3",
     "@types/node": "18.16.19",
     "@typescript-eslint/eslint-plugin": "5.62.0",
     "@typescript-eslint/parser": "5.62.0",
